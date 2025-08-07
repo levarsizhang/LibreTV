@@ -168,6 +168,26 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     },
+    madou:{
+        api: "https://madou.tv",
+        name: "麻豆",
+        adult: true
+    },
+    avporn:{
+        api: "https://theav101.com/",
+        name: "avporn",
+        adult: true
+    },
+    avjb:{
+        api: "https://avjb.com/",
+        name: "艾薇社区",
+        adult: true
+    },
+    9sex:{
+        api: "https://9sex.com/",
+        name: "9sex",
+        adult: true
+    }, 
 
     // 下面是资源失效率高的API源，不建议使用
     subo: {
